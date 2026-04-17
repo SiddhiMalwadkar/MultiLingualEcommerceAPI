@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="LaptopName" xml:space="preserve"><value>High-End-Laptop</value></data>
+  <data name="LaptopDesc" xml:space="preserve"><value>Ein leistungsstarker Laptop für Entwickler.</value></data>
+  <data name="PhoneName" xml:space="preserve"><value>Smartphone</value></data>
+  <data name="PhoneDesc" xml:space="preserve"><value>Neuestes Modell mit KI-Kamera.</value></data>
+</root>
